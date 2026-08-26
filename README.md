@@ -15,8 +15,7 @@ I love connecting with fellow developers, tech innovators, and creative minds! L
 
 ## 🌐 Socials
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/psychoo7357)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsmanel.aura)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/psychoo7357)<!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsmanel.aura)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manelmezni)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manelmezni688@gmail.com)
 
@@ -58,11 +57,10 @@ I love connecting with fellow developers, tech innovators, and creative minds! L
 
 ![](https://github-profile-trophy.vercel.app/?username=ManelMezni&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ My Quote
+> "Coding with my own unique fingerprint and a whole lot of love.🎀"
+> — **Manel**
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
 
 [![](https://komarev.com/ghpvc/?username=ManelMezni&icon=0&color=10)](https://visitcount.itsvg.in)
 
