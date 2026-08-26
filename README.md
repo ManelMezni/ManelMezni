@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**ManelMezni/ManelMezni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there! 🎀 I’m Manel.
+I am a software developer, IT management student, and AI enthusiast who loves transforming complex data into intelligent, scalable software solutions.
+Currently, I am a Business Computing student where I’ve had the honor of being named Valedictorian for two consecutive years with a 3.9/4.0 GPA 🏆🎓.
+When I step away from my IDE, you can usually find me:
+🎮 Gaming and analyzing mechanics
+🏴‍☠️ Catching up on One Piece
+📚 Reading non-fiction books for personal growth
+🧠 Exploring new tech stacks and advanced deep learning architectures
+I love connecting with fellow developers, tech innovators, and creative minds!
+Let’s connect! (^_−)−☆
+🔗 GitHub: github.com
+💼 LinkedIn: linkedin.com
