@@ -54,7 +54,7 @@ I love connecting with fellow developers, tech innovators, and creative minds! L
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ManelMezni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-
+<!--
 ![](https://github-profile-trophy.vercel.app/?username=ManelMezni&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ My Quote
@@ -63,5 +63,5 @@ I love connecting with fellow developers, tech innovators, and creative minds! L
 
 
 [![](https://komarev.com/ghpvc/?username=ManelMezni&icon=0&color=10)](https://visitcount.itsvg.in)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
