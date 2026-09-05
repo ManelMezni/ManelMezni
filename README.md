@@ -11,6 +11,7 @@ When I step away from my IDE, you can usually find me:
 - 🏴‍☠️ Catching up on One Piece
 - 🎮 Gaming and analyzing mechanics
 - 🎬 Video Editing & Motion Graphics
+  
 I love connecting with fellow developers, tech innovators, and creative minds! Let's connect (^_-)-☆
 
 ## 🌐 Socials
