@@ -10,7 +10,7 @@ When I step away from my IDE, you can usually find me:
 - 📚 Reading non-fiction books for personal growth
 - 🏴‍☠️ Catching up on One Piece
 - 🎮 Gaming and analyzing mechanics
-
+- 🎬 Video Editing & Motion Graphics
 I love connecting with fellow developers, tech innovators, and creative minds! Let's connect (^_-)-☆
 
 ## 🌐 Socials
